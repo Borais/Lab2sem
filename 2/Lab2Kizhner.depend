@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496824420 source:c:\users\Леонид\desktop\dz\turingmachine\lab2kizhner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
